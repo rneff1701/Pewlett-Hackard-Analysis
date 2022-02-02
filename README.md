@@ -11,4 +11,10 @@ Upon receiving the raw data files an ERD was created to map the primary keys bet
 - Lastly, a table of current employees that were born in 1965 and are eligible for a mentorship program was created.
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+The retiring_titles.csv file identifies the number of future retirees by job title.
+
+CREATE TABLE TO BREAK THIS INFO DOWN BY DEPARTMENT
+
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+CREATE TABLE LOOKING AT JOB TITLE FOR ANYONE WITH A BIRTH DATE AFTER 1965
