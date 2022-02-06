@@ -11,10 +11,7 @@ Upon receiving the raw data files an ERD was created to map the primary keys bet
 - Lastly, a table of current employees that were born in 1965 and are eligible for a mentorship program was created.
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+A query was created to include the department information along with title and that output is saved in the file retirement_depts.csv.  This output was then scrubbed to drop duplicate employees and saved in the table unique_rt_depts.csv.  Finally, this information was grouped by title and department number and saved into table retiring_depts.It identified that in department d005 Development there are 18,779 future retirees.  By contrast department d001 Marketing has 3,511 future retirees 
 
-The retiring_titles.csv file identifies the number of future retirees by job title.  An additional table, retiring_depts.csv, was created that further breaks down the future retirees by title and department.  It identified that in department d005 there are 18,779 future retirees.  By contrast department d001 has 3,511 future retirees
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?  No, there are only 1,549 total employees eligible for mentorship compared to over 72,000 upcoming retiring employees.
 
-
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
-CREATE TABLE LOOKING AT JOB TITLE FOR ANYONE WITH A BIRTH DATE AFTER 1966
