@@ -1,0 +1,36 @@
+count,title,dept_no
+10,Engineer,d009
+23,Staff,d009
+3,Technique Leader,d009
+79,Senior Staff,d009
+4,Senior Engineer,d009
+1,Assistant Engineer,d009
+20,Staff,d008
+3,Senior Engineer,d008
+2,Technique Leader,d008
+62,Senior Staff,d008
+16,Engineer,d008
+187,Senior Staff,d007
+57,Staff,d007
+7,Assistant Engineer,d006
+16,Senior Engineer,d006
+54,Engineer,d006
+9,Technique Leader,d006
+31,Technique Leader,d005
+84,Senior Engineer,d005
+232,Engineer,d005
+2,Staff,d005
+9,Senior Staff,d005
+38,Assistant Engineer,d005
+1,Staff,d004
+6,Senior Staff,d004
+62,Senior Engineer,d004
+32,Technique Leader,d004
+189,Engineer,d004
+32,Assistant Engineer,d004
+78,Senior Staff,d003
+19,Staff,d003
+12,Staff,d002
+52,Senior Staff,d002
+21,Staff,d001
+96,Senior Staff,d001
